@@ -23,6 +23,6 @@ Warning: the code "MAE_RMSE_ARMA_and_final_chart" contains both the MAE and RMSE
 
 It contains all the code (Matlab) to use the Continuous Rank Probability Score. It is a verification tool related to probabilistic forecast systems, and it is a quantity that highlights to both forecast sharpness and calibration.
 
-## functions
+## functions_code_Matlab
 
 It contains the other functions that were used during this study. The GL_transform function corresponds to the generalised logit transform and the IGL_transform corresponds to the invers generalised logit transform. 
