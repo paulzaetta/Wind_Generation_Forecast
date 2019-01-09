@@ -25,4 +25,4 @@ It contains all the code (Matlab) necessary to use the Continuous Rank Probabili
 
 ## functions_code_Matlab
 
-It contains the other functions that were used during this study. The GL_transform function corresponds to the generalised logit transform and the IGL_transform corresponds to the invers generalised logit transform. 
+It contains the other functions that were used during this study. The GL_transform function corresponds to the generalised logit transform and the IGL_transform function corresponds to the invers generalised logit transform. 
