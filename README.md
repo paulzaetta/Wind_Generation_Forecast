@@ -12,7 +12,7 @@ It contains all the code (Matlab) necessary to use the Continuous Rank Probabili
 It contains the final data set. It has been previously cleaned using python (see the python script). The data set for wind power
 generation in Galicia consists of 52123 valid data points (from 1th January 2016 to 31th December 2016).
 
-## functions_code_Matlab
+## Functions_code_Matlab
 
 It contains the other functions that were used during this study. The GL_transform function corresponds to the generalised logit transform and the IGL_transform function corresponds to the invers generalised logit transform. 
 
