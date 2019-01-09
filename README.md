@@ -2,7 +2,7 @@
 
 ## Master_Thesis_ZAETTA_Paul.pdf
 
-It contains the master thesis which is "Very short-term analysis of wind power generation in a probabilistic forecasting framework". 
+This file contains the master thesis, which is "Very short-term analysis of wind power generation in a probabilistic forecasting framework". 
 
 ## Data_2016.xlsx
 
