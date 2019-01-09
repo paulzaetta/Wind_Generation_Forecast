@@ -21,7 +21,7 @@ Warning: the code "MAE_RMSE_ARMA_and_final_chart" contains both the MAE and RMSE
 
 ## CRPS_code_Matlab
 
-It contains all the code (Matlab) necessary to use the Continuous Rank Probability Score. It is a verification tool related to probabilistic forecast systems, and it is a quantity that highlights to both forecast sharpness and calibration.
+It contains all the code (Matlab) necessary to use the Continuous Rank Probability Score. It is a verification tool related to probabilistic forecasting systems, and it is a quantity that highlights both the forecast of sharpness and calibration.
 
 ## functions_code_Matlab
 
