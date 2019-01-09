@@ -9,7 +9,7 @@ It contains all the code (Matlab) necessary to use the Continuous Rank Probabili
 
 ## Data_2016.xlsx
 
-It contains the final data set. It has been previously cleaned using python (see the python script). The data set for wind power
+It contains the final data set. It has been previously cleaned using python (see the `python_script`). The data set for wind power
 generation in Galicia consists of 52123 valid data points (from 1th January 2016 to 31th December 2016).
 
 ## Functions_code_Matlab
