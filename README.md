@@ -16,6 +16,10 @@ generation in Galicia consists of 52123 valid data points (from 1th January 2016
 
 It contains the other functions that were used during this study. The GL_transform function corresponds to the generalised logit transform and the IGL_transform function corresponds to the invers generalised logit transform. 
 
+## Graphic_illustrations_code_Matlab
+
+
+
 ## MAE_RMSE_code_Matlab
 
 It contains all the code (Matlab) necessary to use the Mean Average Error and Root Mean Square Error methods. They allow us to evaluate the point forecasts by measuring differences between observed and predicted values.
