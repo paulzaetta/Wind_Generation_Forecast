@@ -18,7 +18,7 @@ It contains the other functions that were used during this study. The GL_transfo
 
 ## Graphic_illustrations_code_Matlab
 
-
+It contains the code (Matlab) necessary to obtain some graphic illustrations, which are present in the master thesis. 
 
 ## MAE_RMSE_code_Matlab
 
