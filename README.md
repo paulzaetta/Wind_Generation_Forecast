@@ -29,4 +29,4 @@ Warning: the code "MAE_RMSE_ARMA_and_final_chart" contains both the MAE and RMSE
 
 ## Master_Thesis_ZAETTA_Paul.pdf
 
-This file contains the master thesis, which is "Very short-term analysis of wind power generation in a probabilistic forecasting framework". 
+This file contains the master thesis (in PDF format), which is "Very short-term analysis of wind power generation in a probabilistic forecasting framework". 
